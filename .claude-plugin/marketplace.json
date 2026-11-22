@@ -1,1 +1,14 @@
-
+{
+  "name": "manim-marketplace",
+  "description": "Claude Code plugins for ManimCommunity",
+  "owner": {
+    "name": "Aapka Naam"
+  },
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "source": "./plugins/test-plugin",
+      "description": "Yeh ek test plugin hai"
+    }
+  ]
+}
