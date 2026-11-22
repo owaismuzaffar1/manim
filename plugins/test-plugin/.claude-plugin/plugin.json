@@ -1,1 +1,8 @@
-
+{
+  "name": "manim-marketplace",
+  "description": "Claude Code plugins for ManimCommunity",
+  "owner": {
+    "name": "Owais Muzaffar"
+  },
+  "plugins": []
+}
